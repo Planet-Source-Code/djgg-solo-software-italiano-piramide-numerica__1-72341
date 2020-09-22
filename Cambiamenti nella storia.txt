@@ -1,0 +1,40 @@
+PIRAMIDE NUMERICA
+2009© -DJGG-
+FREEWARE
+
+BETA TESTER: PATTY
+
+* 1.0.0
+	- Rilevato bug livello
+* 1.0.1
+	- Corretto bug livello
+	- Rilevato bug combinazioni multiple
+* 1.0.2
+	- Aggiunto pulsante "ferma tempo" per studiare le combinazioni
+	- Rilevato bug controllo vittoria
+* 1.0.3
+	- Modificato sistema di controllo di vittoria
+	- Rilevato bug controllo vittoria
+* 1.0.4
+	- Modificato sistema di controllo di vittoria
+* 1.0.5
+	- Rimosso pulsante "ferma tempo"
+* 1.0.6
+	- Cambiato sistema di controllo di vittoria
+	- Abilitati i trucchi
+* 1.0.7
+	- Migliorato sistema di controllo di vittoria
+	- Migliorata parte grafica
+	- Migliorato sistema di assegnazione del punteggio
+	- Migliorato sistema di controllo generale del gioco
+* 1.0.8
+	- Corretto bug menu Gioco > Esci, il gioco non viene terminato
+	- Aggiunto sistema di memorizzazione Punteggio più alto
+	- Rilevato BUG azzeramento punteggio
+* 1.0.9
+	- Corretto bug azzeramento punteggio
+	- Migliorati commenti nel sorgente
+	- Migltiorati trucchi
+* 1.0.10
+	- Alcuni ritocchi al codice
+	- Pubblicazione su PSC e su GBArl
